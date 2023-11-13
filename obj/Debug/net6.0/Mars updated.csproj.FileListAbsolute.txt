@@ -1,0 +1,5 @@
+C:\My_IT_Prrojects\3_Mars Project\Mars\Mars updated\obj\Debug\net6.0\Mars updated.csproj.AssemblyReference.cache
+C:\My_IT_Prrojects\3_Mars Project\Mars\Mars updated\obj\Debug\net6.0\Mars updated.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_IT_Prrojects\3_Mars Project\Mars\Mars updated\obj\Debug\net6.0\Mars updated.AssemblyInfoInputs.cache
+C:\My_IT_Prrojects\3_Mars Project\Mars\Mars updated\obj\Debug\net6.0\Mars updated.AssemblyInfo.cs
+C:\My_IT_Prrojects\3_Mars Project\Mars\Mars updated\obj\Debug\net6.0\Mars updated.csproj.CoreCompileInputs.cache
