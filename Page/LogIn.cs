@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mars_updated.Page
+namespace ProjectMars.Page
 {
     public class LogIn
     {
@@ -33,7 +33,7 @@ namespace Mars_updated.Page
             IWebElement loginButton = driver.FindElement(By.XPath("/html/body/div[2]/div/div/div[1]/div/div[4]/button"));
             loginButton.Click();
 
-
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
 
 
 

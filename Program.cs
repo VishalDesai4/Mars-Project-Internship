@@ -1,4 +1,4 @@
-﻿using Mars_updated.Page;
+﻿using ProjectMars.Page;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
